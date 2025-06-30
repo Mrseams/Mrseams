@@ -8,7 +8,6 @@ I'm passionate about building robust web and mobile applications, exploring new 
 ## 🚀 About Me
 
 - 🎮 Interested in video games, web & mobile app development
-- 🌱 Currently learning Flutter and Laravel
 - 🤝 Open to collaboration on exciting projects
 - 📫 Reach me at [mrseams@outlook.fr](mailto:mrseams@outlook.fr)
 
