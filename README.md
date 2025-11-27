@@ -9,7 +9,7 @@ I'm passionate about building robust web and mobile applications, exploring new 
 
 - 🎮 Interested in video games, web & mobile app development
 - 🤝 Open to collaboration on exciting projects
-- 📫 Reach me at [mrseams@outlook.fr](mailto:mrseams@outlook.fr)
+- 📫 Reach me at [mrseams@outlook.fr](mailto:emmanuel.essam@outlook.fr)
 
 ---
 
